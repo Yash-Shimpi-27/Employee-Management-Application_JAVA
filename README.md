@@ -1,6 +1,6 @@
 # Employee-Management-Application_JAVA
 
-#  Employee Management System in Java
+
 
 A simple console-based **Employee Management System** built using **Core Java**.  
 This project demonstrates the use of **OOP concepts** such as classes, objects, encapsulation, and methods.
